@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Claude Code">
   <diagram id="hub-system" name="System Architecture">
-    <mxGraphModel dx="1536" dy="2174" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2400" pageHeight="1560" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="3770" dy="1506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2400" pageHeight="1560" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -450,9 +450,6 @@
         </mxCell>
         <mxCell id="wG-UfIOa9r1-ER2--UF0-16" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;legacyAnchorPoints=0;" value="" vertex="1">
           <mxGeometry height="120" width="20" x="1964" y="1131" as="geometry" />
-        </mxCell>
-        <mxCell id="wG-UfIOa9r1-ER2--UF0-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Text" vertex="1">
-          <mxGeometry height="30" width="60" x="530" y="-90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
